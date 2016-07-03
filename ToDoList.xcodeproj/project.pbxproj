@@ -13,6 +13,7 @@
 		836947B51D295CB600412D9B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 836947B31D295CB600412D9B /* Main.storyboard */; };
 		836947B71D295CB600412D9B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 836947B61D295CB600412D9B /* Assets.xcassets */; };
 		836947BA1D295CB600412D9B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 836947B81D295CB600412D9B /* LaunchScreen.storyboard */; };
+		836947C21D295D9200412D9B /* TaskManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 836947C11D295D9200412D9B /* TaskManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		836947B61D295CB600412D9B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		836947B91D295CB600412D9B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		836947BB1D295CB600412D9B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		836947C11D295D9200412D9B /* TaskManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TaskManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				836947AF1D295CB600412D9B /* FirstViewController.swift */,
 				836947B11D295CB600412D9B /* SecondViewController.swift */,
 				836947B31D295CB600412D9B /* Main.storyboard */,
+				836947C11D295D9200412D9B /* TaskManager.swift */,
 				836947B61D295CB600412D9B /* Assets.xcassets */,
 				836947B81D295CB600412D9B /* LaunchScreen.storyboard */,
 				836947BB1D295CB600412D9B /* Info.plist */,
@@ -140,6 +143,7 @@
 			files = (
 				836947B21D295CB600412D9B /* SecondViewController.swift in Sources */,
 				836947AE1D295CB600412D9B /* AppDelegate.swift in Sources */,
+				836947C21D295D9200412D9B /* TaskManager.swift in Sources */,
 				836947B01D295CB600412D9B /* FirstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
